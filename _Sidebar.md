@@ -10,3 +10,4 @@ Hardware <br />
 ULTRA OSD <br />
 
 **[General Navigation](https://github.com/KissUltra/firmware/wiki/OSD:-General-Navigation)** <br />
+**[General Navigation](https://github.com/KissUltra/firmware/wiki/OSD:-DJI-Configuration)** <br />
