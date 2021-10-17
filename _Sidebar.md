@@ -3,9 +3,9 @@
 
 Hardware <br />
 
-**[FCFC Ultra](https://github.com/KissUltra/firmware/wiki/Hardware:-FCFC Ultra)** <br />
-**[FCFC Ultra Mini](https://github.com/KissUltra/firmware/wiki/Hardware:-FCFC Ultra Mini)** <br />
-**[Ultra PDB](https://github.com/KissUltra/firmware/wiki/Hardware:-Ultra PDB)** <br />
+**[FCFC Ultra](https://github.com/KissUltra/firmware/wiki/Hardware:-FCFC-Ultra)** <br />
+**[FCFC Ultra Mini](https://github.com/KissUltra/firmware/wiki/Hardware:-FCFC-Ultra-Mini)** <br />
+**[Ultra PDB](https://github.com/KissUltra/firmware/wiki/Hardware:-Ultra-PDB)** <br />
 
 ULTRA OSD <br />
 
