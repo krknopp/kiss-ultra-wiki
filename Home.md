@@ -1,1 +1,1 @@
-Welcome to the firmware wiki!
+Welcome to Kiss ULTRA WIKI!
